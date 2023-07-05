@@ -23,4 +23,9 @@ public class TesteFourD {
             }
         }
     }
+// A alteração realizada pensando em melhor eficiência, desempenho, utilização dos recursos e escalabilidade     
+// Retirado a consulta de dentro do loop FOR
+// Utilização do Set para armazenar os IDs das oportunidades
+// Utilização de Map 
+// Execução de apenas uma consulta
 }
